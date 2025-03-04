@@ -99,7 +99,7 @@ croatia_fires <- process_effis_fires(
 - maps
 
 # Related Resources
-Read more about these methods in my Medium article [5 R-Powered Methods to Access Quality Forestry Data Without Fieldwork](https://medium.com/your-username/your-article-slug) and you can dowload the full pdf guide from my [LinkedIn page](https://www.linkedin.com/in/marijana-andabaka/overlay/1740810385128/single-media-viewer/?profileId=ACoAAC_MKc4BeFdwRoSLnKAG15aJ2mJewM6o5eM).
+Read more about these methods in my Medium article [5 R-Powered Methods to Access Quality Forestry Data Without Fieldwork](https://medium.com/@marijanazunic/5-r-powered-methods-to-access-quality-forestry-data-without-fieldwork-119f6ae15aa9) and you can dowload the full pdf guide from my [LinkedIn page](https://www.linkedin.com/in/marijana-andabaka/overlay/1740810385128/single-media-viewer/?profileId=ACoAAC_MKc4BeFdwRoSLnKAG15aJ2mJewM6o5eM).
 
 # Licence
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -119,7 +119,7 @@ Contributions to improve these functions or add new data access methods are welc
 # Contact
 If you have questions about implementing these methods or need help with a specific forestry data challenge, feel free to reach out:
 
-Email: marijana@andalytics.com  
+marijana@andalytics.com  
 [LinkedIn](https://www.linkedin.com/in/marijana-andabaka/)  
 [Website](https://andalytics.com/en/)  
 

@@ -71,7 +71,7 @@ download_tree_occurrences <- function(scientific_name, country = NULL,
 
     # Filter for forest habitats if requested
     if (forest_only && "habitat" %in% colnames(occurrences)) {
-        forest_keywords <- c("forest", "woodland", "woods", "sylv", "timberland")
+        forest_keywords <- c("forest", "woodland", "woods", "silv", "timberland")
         forest_pattern <- paste(forest_keywords, collapse = "|")
 
         # Keep records with forest-related habitat or NULL habitat
